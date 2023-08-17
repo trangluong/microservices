@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{0F048CBC-524D-4C3D-9743-C6B7AA440A5B}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="xUnitUserService/UnitTest1.cs">
+    <Files>
+      <File FileName="xUnitUserService/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserService" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xUnitUserService FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.UserService FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
